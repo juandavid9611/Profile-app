@@ -11,7 +11,7 @@ Apache Tomcat 8.5 Deployment
 
 Spring-boot 2.2.2
 
-Steps to build app
+JDK 11
 
 ## 🚀 Build app
 
